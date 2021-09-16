@@ -33,7 +33,7 @@ app.get('/file', function (req, res) {
         return res.end();
     });
 
-    fs.appendFile('demofile1.html', 'This is content!', function (err) {
+    fs.appendFile('demofile.html', 'This is content!', function (err) {
         if (err) throw err;
         console.log('Saved!');
     });
