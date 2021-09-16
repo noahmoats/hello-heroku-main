@@ -1,6 +1,2 @@
 # hello-heroku
-
-# hello-heroku-main
-# hello-heroku-main
-# hello-heroku-main
-# hello-heroku-main
+#Link to herokuapp# https://hello-heroku-main.herokuapp.com/
